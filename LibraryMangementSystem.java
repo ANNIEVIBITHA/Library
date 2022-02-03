@@ -71,7 +71,7 @@ class Librarian extends LibrarySystem
     {
     	Librarian l1 = new Librarian();
     	l1.setBookName("Computer Science");
-    	l1.setBookAuthor("");
+    	l1.setBookAuthor("Thakur");
     	availableBooks.add(l1);
     	Librarian l2 = new Librarian();
     	l2.setBookName("DATABASE MANAGEMENT");
